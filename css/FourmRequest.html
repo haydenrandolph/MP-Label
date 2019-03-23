@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product Formulation Request</title>
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="FourmRequest.css">
+</head>
+
+<body>
+<h2>Product Formulation Request</h2>
+
+<p>Please complete this form if you are interested in our team formulating
+existing or new hair care products for you.</p>
+
+<p>Prior to completing this form, please know that the cost per product formulation is between
+$1000 to $2000. This does not include the cost to mass produce. Selecting "yes" means that you
+would like to proceed.</p>
+
+<h1>Contact Us</h1>
+
+<form
+ action= "mailto:keenanwilliamson97@gmail.com"
+ method="post"
+ enctype="multipart/form-data"
+ name="Email">
+<div class="form-container">
+
+<div>
+  <label for="name">*First Name:</label>
+  <input id="name" type="text" name="First Name" required maxlength="25">
+</div>
+
+  <div>
+    <label for="name">*Last Name:</label>
+    <input id="name" type="text" name="Last Name" required maxlength="25">
+</div>
+
+    <div>
+      <label for="name">*Phone Number:</label>
+      <input id="name" type="text" name="Phone Number" required maxlength="12">
+    </div>
+
+        <div>
+      <label for="email">*Email Address:</label>
+      <input id="email" type="email" name="Email Address" required maxlength="30">
+    </div>
+
+      <div>
+        <label for="name">*Company Name:</label>
+       <input id="name" type="text" name="Company Name" required maxlength="30">
+     </div>
+
+        <div>
+      <label for="name">*Company Website:</label>
+        <input id="name" type="text" name="Company" required maxlength="30">
+      </div>
+
+        <div>
+            <label for="name">*City:</label>
+            <input id="name" type="text" name="City" required maxlength="30">
+        </div>
+
+            <div>
+            <label for="name">*State:</label>
+            <input id="name" type="text" name="State" required maxlength="15">
+          </div>
+
+        <div>
+          <label for="name">*Zip code:</label>
+          <input id="name" type="text" name="Zip code" required maxlength="5">
+   </div>
+          <p>*Is this an existing formula?<p/>
+          <div>
+        <input type="radio" id="Yes" name="formula" value="Yes">
+          <label for="Yes">Yes</label></div>
+
+          <div>
+           <input type="radio" id="No" name="formula" value="No">
+            <label for="No">No</label>
+            </div>
+
+<p>*Anticipated Production Date:
+    <input type="date" name="Anticipated Production Date" required>    <!--- Instead of bootstrap --->
+  </p>
+
+  <p>*Please list product(s) to be formulated</p>
+  <textarea id="message" name="Please list product(s) to be formulated" rows="10" maxlength="600" required></textarea>
+
+  <p>*Please list ingredients for each product you wish to have formulated.</p>
+  <textarea id="ingredients" name="ingredients" rows="10" maxlength="600" required></textarea>
+
+<p>*Would you like us to conduct Stability Tests on product(s)?<p/>
+<div>
+  <input type="radio" id="Yes" name="Stability" value="Yes">
+    <label for="Yes">Yes</label></div>
+
+      <div>
+      <input type="radio" id="No" name="Stability" value="No">
+        <label for="No">No</label>
+          </div>
+
+      <p>*Would you like us to perform Efficacy Tests on product(s)? (Test for microorganisms)</p>
+      <div>
+      <input type="radio" id="Yes" name="Efficay" value="Yes">
+        <label for="Yes">Yes</label></div>
+
+          <div>
+       <input type="radio" id="No" name="Efficay" value="No">
+        <label for="No">No</label>
+                    </div>
+
+
+    <p>Please use this field for enter any questions you may have regarding product formulation.</p>
+      <textarea id="ingredients" name="ingredients" rows="10" maxlength="600" required></textarea>
+
+    <p>Please select a date that we may give you a call to discuss next steps.
+      <input type="date" name="date" required>     <!--- Instead of bootstrap --->
+    </p>
+</div>
+<input type="submit" value="Sumbit">
+</form>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body>
+</html>

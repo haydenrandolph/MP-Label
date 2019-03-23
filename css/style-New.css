@@ -1,3 +1,10 @@
 .banner_content h1{
     color:red!important;
 }
+.copyright{
+    font-size: 2vh;
+}
+.productList{
+  font-size: 2vh;
+  margin-bottom:1vh;
+}

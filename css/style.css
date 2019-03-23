@@ -34,6 +34,7 @@ body {
   body.elements {
     font-weight: 400; }
 
+
 html,
 body {
   height: 100%; }
@@ -464,6 +465,13 @@ button:focus {
 .projects_inner {
   margin-bottom: -30px; }
 
+  .copyright{
+      font-size: 2vh;
+  }
+.productList{
+    font-size: 2vh;
+    margin-bottom:1vh;
+}
 .projects_item {
   position: relative;
   border-radius: 5px;
