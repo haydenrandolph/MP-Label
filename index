@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="icon" href="img/favicon.png" type="image/png">
+	<title>Home</title>
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="vendors/linericon/style.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
+	<link rel="stylesheet" href="vendors/animate-css/animate.css">
+	<link rel="stylesheet" href="vendors/flaticon/flaticon.css">
+	<link rel="stylesheet" href="css/style.css">
+	<!-- main css -->
+	<link rel="stylesheet" href="css/style-New.css">
+</head>
+
+<body>
+
+	<!--================Header Menu Area =================-->
+	<header class="header_area">
+			<div class="main_menu">
+				<nav class="navbar navbar-expand-lg navbar-light">
+					<img src="img/maxlogo.png" style="margin-left:7vh;width:20vh"alt="">
+					<div class="container">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<a class="navbar-brand" href="index.html"><img src="img/logo.png" alt=""></a>
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+						 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+							<ul class="nav navbar-nav menu_nav justify-content-end">
+								<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+								<li class="nav-item"><a class="nav-link" href="about-us.html">About</a></li>
+								<li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+								<li class="nav-item active"><a class="nav-link" href="faq.html">FAQ</a></li>
+								<li class="nav-item"><a class="nav-link" href="products.html">Products</a></li>
+								<li class="nav-item submenu dropdown">
+								</li>
+								<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+			</div>
+	</header>
+	<!--================Header Menu Area =================-->
+
+	<!--================Home Banner Area =================-->
+	<section class="banner-area owl-carousel" id="home">
+		<div class="single_slide_banner slide_bg1">
+			<div class="container">
+				<div class="row fullscreen d-flex align-items-center">
+					<div class="banner-content col-lg-12 justify-content-center">
+						<h1>Max Private Label </h1>
+						<a href="about-us.html" class="primary-btn">Find Out More</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--================End Home Banner Area =================-->
+
+	<!--================ Start Portfolio Area =================-->
+	<section class="section_gap portfolio_area" id="work">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-6 text-center">
+					<div class="main-title">
+						<h1>What We Do</h1>
+						<p>	Max Private Label is a leading custom manufacturer specializing in premiere Hair care, Skin
+						care &amp; Personal care products. Our clients include retailers, spas, salons &amp; most digital
+						marketplaces also individuals who want to develop their own line of skin care or personal care
+						products.
+
+					</p>
+					</div>
+				</div>
+			</div>
+			<section id="services" class="section-padding">
+		  <div class="container">
+			<div class="section-header text-center">
+			  <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div>
+			</div>
+			<div class="row">
+			  <!-- Services item -->
+			  <div class="col-md-6 col-lg-4 col-xs-12">
+				<div class="services-item wow fadeInRight" data-wow-delay="0.3s">
+				  <div class="icon">
+					<i class="lni-cog"></i>
+				  </div>
+				  <div class="services-content">
+					<h3><a href="#">Turn-Key Solutions</a></h3>
+					<p>Just getting started or industry giant? No problem. We can service you.</p>
+				  </div>
+				</div>
+			  </div>
+			  <!-- Services item -->
+			  <div class="col-md-6 col-lg-4 col-xs-12">
+				<div class="services-item wow fadeInRight" data-wow-delay="0.6s">
+				  <div class="icon">
+					<i class="lni-stats-up"></i>
+				  </div>
+				  <div class="services-content">
+					<h3><a href="#">Low Minimums </a></h3>
+					<p> With a low minimum order for private labeling supplements, you can test before you launch. </p>
+				  </div>
+				</div>
+			  </div>
+			  <!-- Services item -->
+			  <div class="col-md-6 col-lg-4 col-xs-12">
+				<div class="services-item wow fadeInRight" data-wow-delay="0.9s">
+				  <div class="icon">
+					<i class="lni-users"></i>
+				  </div>
+				  <div class="services-content">
+					<h3><span class="glyphicon glyphicon-star-empty"><a href="#">Fully Certified</a></h3>
+					<p>We manufacture locally at our fully certified facility in Chicago, Illinois</p>
+				  </div>
+				</div>
+			  </div>
+			  <!-- Services item -->
+			  <div class="col-md-6 col-lg-4 col-xs-12">
+				<div class="services-item wow fadeInRight" data-wow-delay="1.2s">
+				  <div class="icon">
+					<i class="lni-layers"></i>
+				  </div>
+				  <div class="services-content">
+					<h3><a href="#">Customer Satisfaction</a></h3>
+					<p>Customer service and satisfaction is our specialty and we take pride in ensuring you get exactly what you want with industry-leading lead times.
+						We don’t just want to make your product, we want to help you build your Brand. </p>
+				  </div>
+				</div>
+			  </div>
+			  <!-- Services item -->
+			  <div class="col-md-6 col-lg-4 col-xs-12">
+				<div class="services-item wow fadeInRight" data-wow-delay="1.5s">
+				  <div class="icon">
+					<i class="lni-mobile"></i>
+				  </div>
+				  <div class="services-content">
+					<h3><a href="#">Logistics + Shipping</a></h3>
+					<p>We’ll make sure that your order is delivered on time and at the lowest cost.</p>
+				  </div>
+				</div>
+			  </div>
+			  <!-- Services item -->
+			  <div class="col-md-6 col-lg-4 col-xs-12">
+				<div class="services-item wow fadeInRight" data-wow-delay="1.8s">
+				  <div class="icon">
+					<i class="lni-rocket"></i>
+				  </div>
+				  <div class="services-content">
+					<h3><a href="#">Private Labeling</a></h3>
+					<p>Full private label services are available for our many stock formulas including: logo, label and website design.  </p>
+				  </div>
+				</div>
+			  </div>
+			</div>
+		  </div>
+		</section>
+		<!--================ End of Service Area =================-->
+
+
+	<!--================ Start Newsletter Area =================-->
+	<section class="section_gap newsletter-area">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-6 text-center">
+					<div class="main-title">
+						<h1>Would you like to stay in touch? Go ahead and enter your email!</h1>
+					</div>
+				</div>
+			</div>
+			<div class="row newsletter_form justify-content-center">
+				<div class="col-lg-6 col-md-6 col-sm-6">
+					<div class="d-flex flex-row" id="mc_embed_signup">
+						<form class="w-100" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
+						 method="get">
+							<div class="navbar-form">
+								<div class="input-group add-on">
+									<input class="form-control" name="EMAIL" placeholder="Your email address" onfocus="this.placeholder = ''"
+									 onblur="this.placeholder = 'Your email address'" required="" type="email">
+									<div style="position: absolute; left: -5000px;">
+										<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+									</div>
+									<div class="input-group-btn">
+										<button class="genric-btn text-uppercase">
+											Subscribe
+										</button>
+									</div>
+								</div>
+							</div>
+							<div class="info mt-20"></div>
+						</form>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--================ End Newsletter Area =================-->
+
+	<!--================ Start Footer Area =================-->
+	<footer class="footer_area section_gap">
+		<div class="container">
+			<div class="row footer_inner justify-content-center">
+				<div class="col-lg-6 text-center">
+					<aside class="f_widget social_widget">
+						<div class="f_logo">
+							<img src="img/maxlogo.png" style="width:20vh"alt="">
+						</div>
+						<div class="f_title">
+							<h4>Follow Us</h4>
+						</div>
+						<ul class="list">
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+						</ul>
+					</aside>
+					<div class="copyright">
+						<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Developed by KJH Technologies</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!--================End Footer Area =================-->
+
+	<!-- Optional JavaScript -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/popper.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/stellar.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
+	<script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
+	<script src="vendors/isotope/isotope-min.js"></script>
+	<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+	<script src="js/jquery.ajaxchimp.min.js"></script>
+	<script src="js/mail-script.js"></script>
+	<!--gmaps Js-->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+	<script src="js/gmaps.min.js"></script>
+	<script src="js/theme.js"></script>
+</body>
+
+</html>
