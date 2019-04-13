@@ -1,0 +1,278 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="icon" href="img/favicon.png" type="image/png">
+	<title>Products</title>
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="vendors/linericon/style.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
+	<link rel="stylesheet" href="vendors/animate-css/animate.css">
+	<link rel="stylesheet" href="vendors/flaticon/flaticon.css">
+	<link rel="stylesheet" href="css/style.css">
+	<!-- main css -->
+	<link rel="stylesheet" href="css/style-New.css">
+</head>
+
+<body>
+
+	<!--================Header Menu Area =================-->
+	<header class="header_area">
+			<div class="main_menu">
+				<nav class="navbar navbar-expand-lg navbar-light">
+					<img src="img/maxlogo.png" style="margin-left:7vh;width:20vh"alt="">
+					<div class="container">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<a class="navbar-brand" href="index.html"><img src="img/logo.png" alt=""></a>
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+						 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+							<ul class="nav navbar-nav menu_nav justify-content-end">
+								<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+								<li class="nav-item"><a class="nav-link" href="about-us.html">About</a></li>
+								<li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+								<li class="nav-item active"><a class="nav-link" href="faq.html">FAQ</a></li>
+								<li class="nav-item"><a class="nav-link" href="products.html">Products</a></li>
+								<li class="nav-item submenu dropdown">
+								</li>
+								<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+			</div>
+	</header>
+	<!--================Header Menu Area =================-->
+
+	<!--================ Start portfolio Banner Area =================-->
+	<section class="banner_area">
+		<div class="banner_inner d-flex align-items-center">
+			<div class="container">
+				<div class="banner_content text-right">
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--================ End FAQ Banner Area =================-->
+
+	<!--================ Start FAQ Details Area =================-->
+	<section class="portfolio_details_area section_gap">
+		<div class="container">
+			<div class="portfolio_details_inner">
+				<div class="row">
+					<div class="main-title text-center">
+						<h1>Products</h1>
+						<h3 style="text-align:center;color:darkgray;">MPL offers an array of the worlds best products, they provide solutions
+						no matter if its your hair, or your pets. Below you will find the vast selection we have to offer. </h3>
+
+					</div>
+				</div>
+				<div>
+				<h3 style="text-align:center;color:#9c8965">Hair & Styling Care</h3>
+				<ul style="color:#5c4f36;">
+				<li class="productList">Color protectant products</li>
+				<li class="productList">Conditioning shampoos including 2-in-1</li>
+				<li class="productList">Conditioners &amp; Detanglers</li>
+				<li class="productList">Cream shampoos</li>
+				<li class="productList">Curly Hair Products</li>
+				<li class="productList">Dry shampoo</li>
+				<li class="productList">Edge Control Products</li>
+				<li class="productList">Ethnic Hair care products (Including relaxers)</li>
+				<li class="productList">Hair Shines/De-Frizzers</li>
+				<li class="productList">Hair Sprays (non-aerosol)</li>
+				<li class="productList">Hair Oils</li>
+				<li class="productList">Leave-in hair Conditioning serums, sprays, lotions &amp; creams</li>
+				<li class="productList">Matte Styling Creams</li>
+				<li class="productList">Mousse (non-aerosol)</li>
+				<li class="productList">Pomades &ndash; water soluble or waxy</li>
+				<li class="productList">Salt, Surf &amp; Beach texturizing sprays</li>
+				<li class="productList">Scalp Products</li>
+				<li class="productList">Shampoos &ndash; All Types</li>
+				<li class="productList">Sulfate free shampoos</li>
+				<li class="productList">Styling Clays</li>
+				<li class="productList">Styling &amp; sculpting gels &amp; serums</li>
+				<li class="productList">Thermal protectant products</li>
+				<li class="productList">Tonics</li>
+				<li class="productList">UV protectant products</li>
+				<li class="productList">Volumizing products</li>
+				<li class="productList">Wig Care Products</li>
+				<li class="productList">Kit Box's</li>
+				</ul>
+			</div>
+				<div>
+				<h3 style="text-align:center;color:#9c8965;margin-top:10vh;">Bath & Body Care</h3><p></h3><p>
+					<ul style="color:#5c4f36;">
+					<li class="productList">Anti-pollution &amp; Antioxidant products</li>
+					<li class="productList">Aromatherapy Products</li>
+					<li class="productList">Baby Products</li>
+					<li class="productList">Bath &amp; Shower Gels</li>
+					<li class="productList">Bath Salts &amp; Soaks</li>
+					<li class="productList">Body Butters, Creams, Gels</li>
+					<li class="productList">Body Mists &amp; Splashes</li>
+					<li class="productList">Body Scrubs</li>
+					<li class="productList">Body Washes</li>
+					<li class="productList">Botanical products</li>
+					<li class="productList">Bubble Baths</li>
+					<li class="productList">Cellulite &amp; Stretch Mark products</li>
+					<li class="productList">Colognes, Perfumes &amp; Toilet Waters</li>
+					<li class="productList">Exfoliation products</li>
+					<li class="productList">Firming &amp; Tightening Products</li>
+					<li class="productList">Foaming exfoliating products</li>
+					<li class="productList">Foot Care Products</li>
+					<li class="productList">Hand Care Products&nbsp;</li>
+					<li class="productList">Milk Baths</li>
+					<li class="productList">Moisturizers</li>
+					<li class="productList">Natural and Organic Products</li>
+					<li class="productList">Bath &amp; Body Oils</li>
+					<li class="productList">Body Balms</li>
+					<li class="productList">Salt &amp; Sugar Scrubs</li>
+					<li class="productList">Skin Repair &amp; Smoothing products</li>
+					<li class="productList">Skin Soothing products</li>
+					<li class="productList">Glittery Body Gels, Body Washes, &nbsp;Lotions &amp; Creams</li>
+					<li class="productList">Vitamin C Products, Roll-On Products</li>
+					<li class="productList">Vitamin E, A, or D products</li>
+					<li class="productList">Whipped Body Butters</li>
+					<li class="productList">Soaps</li>
+					</ul>
+				</div>
+				<div>
+				<h3 style="text-align:center;color:#9c8965;margin-top:10vh;">Men's Grooming</h3><p></h3><p>
+					<ul style="color:#5c4f36;">
+					<li class="productList">Aftershave lotions, gels, balms</li>
+					<li class="productList">Shaving creams &amp; gels</li>
+					<li class="productList">Beard &amp; facial cleansers</li>
+					<li class="productList">Beard balms, creams &amp; oils</li>
+					<li class="productList">Body Washes &amp; Cleansers</li>
+					<li class="productList">Moisturizers</li>
+					<li class="productList">Moustache wax</li>
+					<li class="productList">Men&rsquo;s hair products</li>
+					<li class="productList">Men&rsquo;s hair styling products</li>
+					<li class="productList">Pre-shave oils</li>
+					<li class="productList">Soothing &amp; Cooling products</li>
+					<li class="productList">See Hair Care for other products</li>
+					</ul>
+				<div>
+				<h3 style="text-align:center;color:#9c8965;margin-top:10vh;">Facial & Skin Care</h3><p></h3><p>
+					<ul style="color:#5c4f36;">
+					<li class="productList">Anti-Aging/Anti-Wrinkle products</li>
+					<li class="productList">Anti-Reddening products</li>
+					<li class="productList">Anti-Pollution &amp; Antioxidant products</li>
+					<li class="productList">Brightening Products</li>
+					<li class="productList">Cleansing Creams</li>
+					<li class="productList">Creamy Cleansers</li>
+					<li class="productList">Eye Treatment Products</li>
+					<li class="productList">Facial Masks, Gels, &amp; Scrubs</li>
+					<li class="productList">Firming &amp; Tightening Products</li>
+					<li class="productList">Gel Creams</li>
+					<li class="productList">Gentle Cleansers</li>
+					<li class="productList">Lip balms</li>
+					<li class="productList">Lip plumping products</li>
+					<li class="productList">Milk Cleansers</li>
+					<li class="productList">Moisturizers</li>
+					<li class="productList">Oils</li>
+					<li class="productList">Salt &amp; Sugar Scrubs</li>
+					<li class="productList">Serums &amp; Treatment products</li>
+					<li class="productList">Toners</li>
+					<li class="productList">Vitamin C Products</li>
+					<li class="productList">Vitamin E, A, or D products</li>
+					<li class="productList">Acne Treatment</li>
+					</ul>
+				</div>
+				<div>
+				<h3 style="text-align:center;color:#9c8965;margin-top:10vh;">Pet Care</h3><p></h3><p>
+					<ul style="color:#5c4f36;">
+						<li class="productList">Soothing Products</li>
+						<li class="productList">Balms &amp; ointments</li>
+						<li class="productList">Coat Conditioners &amp; Detanglers</li>
+						<li class="productList">Oatmeal products</li>
+						<li class="productList">Coat Shine Products</li>
+						<li class="productList">Deodorant sprays (for pet and/or carpet)</li>
+						<li class="productList">Dry Skin Products</li>
+						<li class="productList">Refreshing/ scented sprays</li>
+						<li class="productList">Shampoos- All Types including sulfate free</li>
+						</ul>
+					</div>
+				<div>
+				<h3 style="text-align:center;color:#9c8965;margin-top:10vh;">Baby Care</h3><p></h3><p>
+					<ul style="color:#5c4f36;">
+						<li class="productList">Baby Wash</li>
+						<li class="productList">Body Wash</li>
+						<li class="productList">Shampoo</li>
+						<li class="productList">Conditioner. Tear-Free, Hypoallergenic</li>
+						<li class="productList">Daily</li>
+						<li class="productList">Moisture Baby Lotion</li>
+						<li class="productList">Skin Cream</li>
+						<li class="productList">Petrolium Jelly</li>
+						<li class="productList">Powder</li>
+						<li class="productList">Rash Cream</li>
+						<li class="productList">Bubble Bath</li>
+						</ul>
+				</div>
+				<div>
+			</div>
+		</div>
+	</section>
+	<!--================ Start FAQ Details Area =================-->
+
+	<!--================ Start Footer Area =================-->
+	<footer class="footer_area section_gap">
+		<div class="container">
+			<div class="row footer_inner justify-content-center">
+				<div class="col-lg-6 text-center">
+					<aside class="f_widget social_widget">
+						<div class="f_logo">
+							<img src="img/maxlogo.png" style="width:20vh"alt="">
+						</div>
+						<div class="f_title">
+							<h4>Follow Us</h4>
+						</div>
+						<ul class="list">
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+						</ul>
+					</aside>
+					<div class="copyright">
+						<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Developed by KJH Technologies</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!--================End Footer Area =================-->
+
+	<!-- Optional JavaScript -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/popper.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/stellar.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
+	<script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
+	<script src="vendors/isotope/isotope-min.js"></script>
+	<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+	<script src="js/jquery.ajaxchimp.min.js"></script>
+	<script src="js/mail-script.js"></script>
+	<!--gmaps Js-->
+	<script src="https://maps.googleapis.com/maps/api/js?</h3><p>key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+	<script src="js/gmaps.min.js"></script>
+	<script src="js/theme.js"></script>
+</body>
+
+</html>
